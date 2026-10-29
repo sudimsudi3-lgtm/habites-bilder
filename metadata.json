@@ -1,0 +1,6 @@
+{
+  "name": "Habit Builder AI",
+  "description": "A production-grade habit tracking web application with streak calculation engine, monthly calendar, deep analytics, and AI Habit Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
